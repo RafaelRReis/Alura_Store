@@ -41,8 +41,6 @@ Pandas
 
 Matplotlib
 
-Seaborn
-
 Plotly
 
 Google Colab
